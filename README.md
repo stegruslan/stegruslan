@@ -1,6 +1,6 @@
 
 # Hello! 👋
-Welcome to my Github Profile!  My name is Ruslan. I like to study programming, currently I write in python
+## Welcome to my Github Profile!  My name is Ruslan. I like to study programming, currently I write in python
 
 ## my skills: ( programming language, technologies and tools, data base )
 
